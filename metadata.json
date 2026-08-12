@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Publisher",
+  "description": "Upload videos with optional notes to automatically analyze, process, and publish to YouTube via AI workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
